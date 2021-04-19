@@ -1,0 +1,36 @@
+{
+	"config_version" : "0.1",
+    "main" :
+      {
+      "name" : "Main Window",
+      "resolution" : [1024 ,768],
+      "button" : [10, 50]
+      },
+	"sub": [
+      {
+      "name": "App1",
+      "Position": 1,
+      "Background": "#F0FF0F",
+      "mode": ""
+      },
+      {
+      "name": "App2",
+      "Position": 2,
+      "Background": "#FF0000",
+      "mode": ""
+      },
+            {
+      "name": "App2",
+      "Position": 3,
+      "Background": "#00FF00",
+      "mode": ""
+      },
+            {
+      "name": "App2",
+      "Position": 4,
+      "Background": "#0000FF",
+      "mode": ""
+      }
+
+    ]
+}
